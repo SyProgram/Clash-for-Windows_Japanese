@@ -16,7 +16,7 @@ The Clash software version involved in the translation is v0.20.27.
 
 我不但修改了Clash的界面语言，而且把字体修改成了日语专用字体——Yu Gothic UI。
 
-翻译所涉及的Clash软件版本为v0.20.27。\n
+翻译所涉及的Clash软件版本为v0.20.27。
 
 
 
