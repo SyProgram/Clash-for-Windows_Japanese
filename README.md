@@ -2,8 +2,7 @@
 Clash for Windowsの日本語版、つまり日本語化パッチと日本語版 Clash のインストールパッケージを提供します。
 
 Clashのインターフェース言語を変更するだけでなく、フォントも日本語専用フォント、つまりYu Gothic UIに変更しました。
-
-翻訳に関係する Clash ソフトウェアのバージョンは v0.20.27 です。\n
+翻訳に関係する Clash ソフトウェアのバージョンは v0.20.27 です。
 
 Provide Japanese-ver Clash for Windows, that is, the localization patch and installation package of Japanese-ver Clash.
 
