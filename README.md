@@ -20,6 +20,20 @@ The Clash software version involved in the translation is v0.20.27.
 
 
 
+できるだけ早く日本語版を表示するために、翻訳には一部外国語の語彙が含まれています。
+
+このソフトウェアは当面中国人のみによって翻訳されているため、一部の語彙が不正確に翻訳されたり、言葉遣いや文法上の誤りがある可能性があります。
+
+In order to display the Japanese version as soon as possible, there are still some foreign language vocabulary in the translation.
+
+This software is only translated by Chinese people for the time being, some vocabulary may be translated inaccurately or there may be wording and grammatical errors.
+
+为了尽早展示日语版本，译稿还存在一些外语词汇。
+
+本软件暂时仅由中国人参与翻译的，有些词汇可能会被翻译得不准确或者出现用词和语法错误。
+
+
+
 このソフトウェアの翻訳原理は、特別な解凍ツールを使用して Clash 中国語版のルート ディレクトリにある app.asar を解凍し、その中にある main.js と renderer.js を見つけます。次に、main.js と renderer.js のコード内の中国語の語彙と文章を日本語に修正し、解凍したファイルを新しい app.asar にパッケージ化して元の app.asar を置き換えると、インターフェイスが日本語版になっていることがわかります。
 
 The translation principle of this software is: unpack app.asar in the root directory of Clash Chinese version with a special decompression tool, and find main.js and renderer.js in it. Then modify the Chinese vocabulary and sentences in the main.js and renderer.js codes into Japanese, then package the decompressed file into a new app.asar and replace the original app.asar, you can see that the interface has become Japanese version.
